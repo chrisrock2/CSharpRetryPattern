@@ -1,0 +1,9 @@
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\bin\Debug\RetryPattern.Tests.dll
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\bin\Debug\RetryPattern.Tests.pdb
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\bin\Debug\RetryPattern.dll
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\bin\Debug\RetryPattern.pdb
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\obj\Debug\RetryPattern.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\obj\Debug\RetryPattern.Tests.dll
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\RetryPattern.Tests\obj\Debug\RetryPattern.Tests.pdb

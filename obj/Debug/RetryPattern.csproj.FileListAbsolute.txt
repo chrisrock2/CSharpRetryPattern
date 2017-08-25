@@ -1,0 +1,5 @@
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\bin\Debug\RetryPattern.dll
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\bin\Debug\RetryPattern.pdb
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\obj\Debug\RetryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\obj\Debug\RetryPattern.dll
+C:\Users\Chris Rock\Documents\GitHub\CSharpRetryPattern\obj\Debug\RetryPattern.pdb
